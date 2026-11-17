@@ -48,3 +48,7 @@ Key Takeaway
 One of the most valuable lessons from this week's project is the importance of using strong, unique passwords and implementing additional layers of protection such as Multi-Factor Authentication (MFA). Weak or predictable passwords can significantly increase security risks, while strong authentication practices help strengthen an organization's overall security posture.
 Hands-on labs like these continue to improve my practical cybersecurity skills and deepen my understanding of how defenders assess and strengthen security controls in real-world environments.
 Linkedin: 
+
+
+
+https://github.com/ChairmanAaron/Networkwalks-AARON-B084--WK3-PM1-PM2---Password-Cracking/blob/0c8dc204ef7946bae35b3d3cb9836bb2608f4165/Screenshot%202026-11-17%20114254.png
